@@ -1,7 +1,8 @@
 ---
 layout: post
 title:  "Education"
-categories: jekyll
+categories: education
+permalink: /education/rk_education
 ---
 Graduated in Electronics and Communication Engineering from Thiagarajar College of Engineering.
 

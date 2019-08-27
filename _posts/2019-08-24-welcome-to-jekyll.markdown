@@ -1,7 +1,8 @@
 ---
 layout: post
 title:  "About Me"
-categories: jekyll update
+categories: about_me
+permalink: /about_me/about_rk
 ---
 I am working for Amazon as an Application Engineer. I always showed great interest in sports such Hockey, Cricket, Volley ball, Badminton and Football.
 Participating in Marathon adds feathers to my interest in sports.
