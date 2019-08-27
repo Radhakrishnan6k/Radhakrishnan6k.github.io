@@ -1,0 +1,12 @@
+---
+layout: post
+title:  "Education"
+categories: jekyll
+---
+Graduated in Electronics and Communication Engineering from Thiagarajar College of Engineering.
+
+Stay connected via fb: [Radhakrish][rk-fb]
+Follow me on Twitter: [@radhakrishrk][rk-twitter]
+
+[rk-fb]: https://www.facebook.com/radhakrish.rk
+[rk-twitter]: https://twitter.com/radhakrishrk
